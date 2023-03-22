@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/oeoe.github.io/static/css/main.d7fc056e.css",
-    "main.js": "/oeoe.github.io/static/js/main.8cae03a8.js",
-    "static/js/787.5fa3b03c.chunk.js": "/oeoe.github.io/static/js/787.5fa3b03c.chunk.js",
-    "static/media/gradiant.jpg": "/oeoe.github.io/static/media/gradiant.2615e6e45f8242858928.jpg",
-    "static/media/KDA.otf": "/oeoe.github.io/static/media/KDA.1ddc5ca4d375eab30aac.otf",
-    "index.html": "/oeoe.github.io/index.html",
-    "main.d7fc056e.css.map": "/oeoe.github.io/static/css/main.d7fc056e.css.map",
-    "main.8cae03a8.js.map": "/oeoe.github.io/static/js/main.8cae03a8.js.map",
-    "787.5fa3b03c.chunk.js.map": "/oeoe.github.io/static/js/787.5fa3b03c.chunk.js.map"
+    "main.css": "/oeoe/static/css/main.346ab174.css",
+    "main.js": "/oeoe/static/js/main.4c8e1e3b.js",
+    "static/js/787.5fa3b03c.chunk.js": "/oeoe/static/js/787.5fa3b03c.chunk.js",
+    "static/media/gradiant.jpg": "/oeoe/static/media/gradiant.2615e6e45f8242858928.jpg",
+    "static/media/KDA.otf": "/oeoe/static/media/KDA.1ddc5ca4d375eab30aac.otf",
+    "index.html": "/oeoe/index.html",
+    "main.346ab174.css.map": "/oeoe/static/css/main.346ab174.css.map",
+    "main.4c8e1e3b.js.map": "/oeoe/static/js/main.4c8e1e3b.js.map",
+    "787.5fa3b03c.chunk.js.map": "/oeoe/static/js/787.5fa3b03c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7fc056e.css",
-    "static/js/main.8cae03a8.js"
+    "static/css/main.346ab174.css",
+    "static/js/main.4c8e1e3b.js"
   ]
 }
