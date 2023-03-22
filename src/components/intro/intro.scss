@@ -1,0 +1,45 @@
+.intro{
+  min-height: 95vh;
+}
+
+#akali-logo{
+  max-width: 65px;
+  max-height: 72px;
+  height: 7%;
+  width: 7%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+
+.hey{
+  margin-top: 5%;
+  text-align: center;
+  background-image: url("../../../public/gradiant.jpg");
+  background-size: cover;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 5vw;
+  font-family: kda, serif;
+}
+
+.text-dark-span{
+  display: inline-block;
+  color: #ffffff;
+  text-align: center;
+  font-size: max(1.5vw, 10px);;
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+
+.profile-picture-div{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  background-color: #eeeeee;
+}

@@ -1,0 +1,10 @@
+.bg-transparent{
+  --bs-bg-opacity: 0.2;
+  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, .1);
+}
+
+.topbar-text:hover {
+  color: var(--navbar-text-color-hover) !important;
+}
+
