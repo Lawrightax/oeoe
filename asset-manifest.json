@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/oeoe/static/css/main.4f3f91f3.css",
-    "main.js": "/oeoe/static/js/main.2ad3c323.js",
+    "main.js": "/oeoe/static/js/main.d9b5103d.js",
     "static/js/787.5fa3b03c.chunk.js": "/oeoe/static/js/787.5fa3b03c.chunk.js",
     "static/media/gradiant.jpg": "/oeoe/static/media/gradiant.2615e6e45f8242858928.jpg",
     "static/media/KDA.otf": "/oeoe/static/media/KDA.1ddc5ca4d375eab30aac.otf",
     "index.html": "/oeoe/index.html",
     "main.4f3f91f3.css.map": "/oeoe/static/css/main.4f3f91f3.css.map",
-    "main.2ad3c323.js.map": "/oeoe/static/js/main.2ad3c323.js.map",
+    "main.d9b5103d.js.map": "/oeoe/static/js/main.d9b5103d.js.map",
     "787.5fa3b03c.chunk.js.map": "/oeoe/static/js/787.5fa3b03c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f3f91f3.css",
-    "static/js/main.2ad3c323.js"
+    "static/js/main.d9b5103d.js"
   ]
 }
